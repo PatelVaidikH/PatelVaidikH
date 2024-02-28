@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a second year student at School of Engineering and Technology, Navrachana University. Pursuing Computer Science and Engineering. Moreover, attending various tech conferences has become one of my favorite things to do.
+
+🌱 I’m currently learning Java, Laravel, Flutter
+👯 I’ve keen interest in helping and building communities
+💬 Connect me by starting a talk in various new emerging technologies
+📫 How to reach me: pvaidik04@gmail.com
