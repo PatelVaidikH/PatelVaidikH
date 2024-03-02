@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Vaidik Patel
-==========================================================================================
+=====================================================================================
 
 <!--
 **PatelVaidikH/PatelVaidikH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,11 @@ I am a second year student at School of Engineering and Technology, Navrachana U
 - 👯 I’ve keen interest in helping and building communities
 - 💬 Ask me about Tech and Communities
 - 📫 How to reach me: pvaidik04@gmail.com
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <img src="![python](https://github.com/PatelVaidikH/PatelVaidikH/assets/115892125/a5f40c73-6b62-48e6-9333-cb65dccc335f)" alt="python" width="40" height="40"/> <img src="" alt="python" width="40" height="40"/> <img src="" alt="python" width="40" height="40"/> <img src="" alt="python" width="40" height="40"/> </p>
+
+
 
 # Badges 
 
