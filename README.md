@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a second year student at School of Engineering and Technology, Navrachana University. Pursuing Computer Science and Engineering. Moreover, attending various tech conferences has become one of my favorite things to do.
+I am a third year student at School of Engineering and Technology, Navrachana University. Pursuing Computer Science and Engineering. Moreover, attending various tech conferences has become one of my favorite things to do.
 
 - 🌱 I’m currently learning Java, Laravel, Flutter
 - 👯 I’ve keen interest in helping and building communities
-- 🔭 Open for collaboration on Django Projects
+- 🔭 Open for collaboration on Django & Laravel Projects
 - 💬 Ask me about Tech and Communities
 - 📫 How to reach me: [pvaidik04@gmail.com](mailto:pvaidik04@gmail.com)
 
