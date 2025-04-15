@@ -27,6 +27,8 @@ I am a third year student at School of Engineering and Technology, Navrachana Un
 # Badges 
 
 [![An image of @@patelvaidikh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/patelvaidikh)](https://holopin.io/@patelvaidikh)
+<br>
+[![AWS Certification Badge](YOUR_BADGE_IMAGE_URL)] (https://www.credly.com/badges/828d7cb3-7414-4fb8-88b0-88bdb87ef436)
 
 <br>
 
